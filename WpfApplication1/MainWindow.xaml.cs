@@ -86,8 +86,8 @@ namespace WpfApplication1
         {
             this.Title = "ColorPresentation";
             //this.ResizeMode = ResizeMode.NoResize;
-            this.Height = 600;
-            this.Width = 820;
+            this.Height = 824;
+            this.Width = 1567;
             this.Content = wp;
         }
     }
